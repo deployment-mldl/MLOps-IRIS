@@ -1,7 +1,10 @@
 # Introduction 
 Fully Automated end-to-end Training and Deployment of IRIS Classifer using Azure MLOps
 1. https://www.youtube.com/watch?v=pLd7xF0z5Zs
-2. https://www.youtube.com/watch?v=uKXuCLoXT_s
+
+Few other resources:
+3. https://www.youtube.com/watch?v=uKXuCLoXT_s
+4. Using Amazon: https://aws.amazon.com/blogs/machine-learning/building-a-scalable-machine-learning-pipeline-for-ultra-high-resolution-medical-images-using-amazon-sagemaker/
 
 # Prerequisites
 1. Azure [Account] (https://azure.microsoft.com/en-in/free/search/?&ef_id=EAIaIQobChMIhIHs3_Ca7wIVI4ZLBR0yKQsDEAAYASAAEgLhFvD_BwE:G:s&OCID=AID2100054_SEM_EAIaIQobChMIhIHs3_Ca7wIVI4ZLBR0yKQsDEAAYASAAEgLhFvD_BwE:G:s)
